@@ -19,7 +19,7 @@ def intro():
     os.system('cls')
     os.system('color 4')
     os.system('color')
-    print("Discord: Phantom.#1616")
+    print("Discord: Envy.#8456")
     print('')
 
 
